@@ -1,0 +1,12 @@
+C:\Users\Yura\source\repos\Tiba\Tools.KeyGenerator\bin\Debug\netcoreapp3.1\Tools.KeyGenerator.exe
+C:\Users\Yura\source\repos\Tiba\Tools.KeyGenerator\bin\Debug\netcoreapp3.1\Tools.KeyGenerator.deps.json
+C:\Users\Yura\source\repos\Tiba\Tools.KeyGenerator\bin\Debug\netcoreapp3.1\Tools.KeyGenerator.runtimeconfig.json
+C:\Users\Yura\source\repos\Tiba\Tools.KeyGenerator\bin\Debug\netcoreapp3.1\Tools.KeyGenerator.runtimeconfig.dev.json
+C:\Users\Yura\source\repos\Tiba\Tools.KeyGenerator\bin\Debug\netcoreapp3.1\Tools.KeyGenerator.dll
+C:\Users\Yura\source\repos\Tiba\Tools.KeyGenerator\bin\Debug\netcoreapp3.1\Tools.KeyGenerator.pdb
+C:\Users\Yura\source\repos\Tiba\Tools.KeyGenerator\obj\Debug\netcoreapp3.1\Tools.KeyGenerator.AssemblyInfoInputs.cache
+C:\Users\Yura\source\repos\Tiba\Tools.KeyGenerator\obj\Debug\netcoreapp3.1\Tools.KeyGenerator.AssemblyInfo.cs
+C:\Users\Yura\source\repos\Tiba\Tools.KeyGenerator\obj\Debug\netcoreapp3.1\Tools.KeyGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Yura\source\repos\Tiba\Tools.KeyGenerator\obj\Debug\netcoreapp3.1\Tools.KeyGenerator.dll
+C:\Users\Yura\source\repos\Tiba\Tools.KeyGenerator\obj\Debug\netcoreapp3.1\Tools.KeyGenerator.pdb
+C:\Users\Yura\source\repos\Tiba\Tools.KeyGenerator\obj\Debug\netcoreapp3.1\Tools.KeyGenerator.genruntimeconfig.cache

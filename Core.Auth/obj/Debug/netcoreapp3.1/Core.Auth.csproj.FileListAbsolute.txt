@@ -1,0 +1,9 @@
+C:\Users\Yura\source\repos\Tiba\Core.Auth\bin\Debug\netcoreapp3.1\Core.Auth.deps.json
+C:\Users\Yura\source\repos\Tiba\Core.Auth\bin\Debug\netcoreapp3.1\Core.Auth.dll
+C:\Users\Yura\source\repos\Tiba\Core.Auth\bin\Debug\netcoreapp3.1\Core.Auth.pdb
+C:\Users\Yura\source\repos\Tiba\Core.Auth\obj\Debug\netcoreapp3.1\Core.Auth.AssemblyInfoInputs.cache
+C:\Users\Yura\source\repos\Tiba\Core.Auth\obj\Debug\netcoreapp3.1\Core.Auth.AssemblyInfo.cs
+C:\Users\Yura\source\repos\Tiba\Core.Auth\obj\Debug\netcoreapp3.1\Core.Auth.csproj.CoreCompileInputs.cache
+C:\Users\Yura\source\repos\Tiba\Core.Auth\obj\Debug\netcoreapp3.1\Core.Auth.dll
+C:\Users\Yura\source\repos\Tiba\Core.Auth\obj\Debug\netcoreapp3.1\Core.Auth.pdb
+C:\Users\Yura\source\repos\Tiba\Core.Auth\obj\Debug\netcoreapp3.1\Core.Auth.csprojAssemblyReference.cache

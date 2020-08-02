@@ -1,0 +1,8 @@
+C:\Users\Yura\source\repos\Tiba\Core.Data.Infrastructure\bin\Debug\netcoreapp3.1\Core.Data.Infrastructure.deps.json
+C:\Users\Yura\source\repos\Tiba\Core.Data.Infrastructure\bin\Debug\netcoreapp3.1\Core.Data.Infrastructure.dll
+C:\Users\Yura\source\repos\Tiba\Core.Data.Infrastructure\bin\Debug\netcoreapp3.1\Core.Data.Infrastructure.pdb
+C:\Users\Yura\source\repos\Tiba\Core.Data.Infrastructure\obj\Debug\netcoreapp3.1\Core.Data.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Yura\source\repos\Tiba\Core.Data.Infrastructure\obj\Debug\netcoreapp3.1\Core.Data.Infrastructure.AssemblyInfo.cs
+C:\Users\Yura\source\repos\Tiba\Core.Data.Infrastructure\obj\Debug\netcoreapp3.1\Core.Data.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Yura\source\repos\Tiba\Core.Data.Infrastructure\obj\Debug\netcoreapp3.1\Core.Data.Infrastructure.dll
+C:\Users\Yura\source\repos\Tiba\Core.Data.Infrastructure\obj\Debug\netcoreapp3.1\Core.Data.Infrastructure.pdb

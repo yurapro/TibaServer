@@ -1,0 +1,15 @@
+C:\Users\Yura\source\repos\Tiba\Tiba.Data\bin\Debug\netcoreapp3.1\Tiba.Data.deps.json
+C:\Users\Yura\source\repos\Tiba\Tiba.Data\bin\Debug\netcoreapp3.1\Tiba.Data.runtimeconfig.json
+C:\Users\Yura\source\repos\Tiba\Tiba.Data\bin\Debug\netcoreapp3.1\Tiba.Data.runtimeconfig.dev.json
+C:\Users\Yura\source\repos\Tiba\Tiba.Data\bin\Debug\netcoreapp3.1\Tiba.Data.dll
+C:\Users\Yura\source\repos\Tiba\Tiba.Data\bin\Debug\netcoreapp3.1\Tiba.Data.pdb
+C:\Users\Yura\source\repos\Tiba\Tiba.Data\bin\Debug\netcoreapp3.1\Tiba.Domain.dll
+C:\Users\Yura\source\repos\Tiba\Tiba.Data\bin\Debug\netcoreapp3.1\Tiba.Domain.pdb
+C:\Users\Yura\source\repos\Tiba\Tiba.Data\obj\Debug\netcoreapp3.1\Tiba.Data.csprojAssemblyReference.cache
+C:\Users\Yura\source\repos\Tiba\Tiba.Data\obj\Debug\netcoreapp3.1\Tiba.Data.AssemblyInfoInputs.cache
+C:\Users\Yura\source\repos\Tiba\Tiba.Data\obj\Debug\netcoreapp3.1\Tiba.Data.AssemblyInfo.cs
+C:\Users\Yura\source\repos\Tiba\Tiba.Data\obj\Debug\netcoreapp3.1\Tiba.Data.csproj.CoreCompileInputs.cache
+C:\Users\Yura\source\repos\Tiba\Tiba.Data\obj\Debug\netcoreapp3.1\Tiba.Data.csproj.CopyComplete
+C:\Users\Yura\source\repos\Tiba\Tiba.Data\obj\Debug\netcoreapp3.1\Tiba.Data.dll
+C:\Users\Yura\source\repos\Tiba\Tiba.Data\obj\Debug\netcoreapp3.1\Tiba.Data.pdb
+C:\Users\Yura\source\repos\Tiba\Tiba.Data\obj\Debug\netcoreapp3.1\Tiba.Data.genruntimeconfig.cache

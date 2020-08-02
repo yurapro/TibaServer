@@ -1,0 +1,8 @@
+C:\Users\Yura\source\repos\Tiba\Tiba.Domain\bin\Debug\netcoreapp3.1\Tiba.Domain.deps.json
+C:\Users\Yura\source\repos\Tiba\Tiba.Domain\bin\Debug\netcoreapp3.1\Tiba.Domain.dll
+C:\Users\Yura\source\repos\Tiba\Tiba.Domain\bin\Debug\netcoreapp3.1\Tiba.Domain.pdb
+C:\Users\Yura\source\repos\Tiba\Tiba.Domain\obj\Debug\netcoreapp3.1\Tiba.Domain.AssemblyInfoInputs.cache
+C:\Users\Yura\source\repos\Tiba\Tiba.Domain\obj\Debug\netcoreapp3.1\Tiba.Domain.AssemblyInfo.cs
+C:\Users\Yura\source\repos\Tiba\Tiba.Domain\obj\Debug\netcoreapp3.1\Tiba.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Yura\source\repos\Tiba\Tiba.Domain\obj\Debug\netcoreapp3.1\Tiba.Domain.dll
+C:\Users\Yura\source\repos\Tiba\Tiba.Domain\obj\Debug\netcoreapp3.1\Tiba.Domain.pdb

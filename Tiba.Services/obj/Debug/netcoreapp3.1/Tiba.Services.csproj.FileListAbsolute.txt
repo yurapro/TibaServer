@@ -1,0 +1,16 @@
+C:\Users\Yura\source\repos\Tiba\Tiba.Services\bin\Debug\netcoreapp3.1\Tiba.Services.deps.json
+C:\Users\Yura\source\repos\Tiba\Tiba.Services\bin\Debug\netcoreapp3.1\Tiba.Services.dll
+C:\Users\Yura\source\repos\Tiba\Tiba.Services\bin\Debug\netcoreapp3.1\Tiba.Services.pdb
+C:\Users\Yura\source\repos\Tiba\Tiba.Services\bin\Debug\netcoreapp3.1\Core.Auth.dll
+C:\Users\Yura\source\repos\Tiba\Tiba.Services\bin\Debug\netcoreapp3.1\Tiba.Data.dll
+C:\Users\Yura\source\repos\Tiba\Tiba.Services\bin\Debug\netcoreapp3.1\Tiba.Domain.dll
+C:\Users\Yura\source\repos\Tiba\Tiba.Services\bin\Debug\netcoreapp3.1\Core.Auth.pdb
+C:\Users\Yura\source\repos\Tiba\Tiba.Services\bin\Debug\netcoreapp3.1\Tiba.Data.pdb
+C:\Users\Yura\source\repos\Tiba\Tiba.Services\bin\Debug\netcoreapp3.1\Tiba.Domain.pdb
+C:\Users\Yura\source\repos\Tiba\Tiba.Services\obj\Debug\netcoreapp3.1\Tiba.Services.csprojAssemblyReference.cache
+C:\Users\Yura\source\repos\Tiba\Tiba.Services\obj\Debug\netcoreapp3.1\Tiba.Services.AssemblyInfoInputs.cache
+C:\Users\Yura\source\repos\Tiba\Tiba.Services\obj\Debug\netcoreapp3.1\Tiba.Services.AssemblyInfo.cs
+C:\Users\Yura\source\repos\Tiba\Tiba.Services\obj\Debug\netcoreapp3.1\Tiba.Services.csproj.CoreCompileInputs.cache
+C:\Users\Yura\source\repos\Tiba\Tiba.Services\obj\Debug\netcoreapp3.1\Tiba.Services.csproj.CopyComplete
+C:\Users\Yura\source\repos\Tiba\Tiba.Services\obj\Debug\netcoreapp3.1\Tiba.Services.dll
+C:\Users\Yura\source\repos\Tiba\Tiba.Services\obj\Debug\netcoreapp3.1\Tiba.Services.pdb
